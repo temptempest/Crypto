@@ -2,8 +2,10 @@
 
 ### ☑️ SwiftUI + Combine
   
-### ☑️ MVVM
+### ☑️ MVVM + S
 
-### ☑️ Use Core Data
+### ☑️ Core Data
+
+### ☑️ URLSession.dataTaskPublisher
 
 # <img src="image.png">
